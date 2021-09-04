@@ -8,7 +8,6 @@
 
 		<meta name="keywords" content="" />
 		<meta name="description" content="">
-		<meta name="author" content="RZ Technology">
 
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -110,7 +109,7 @@
 								</div>
 								<div class="form-row">
 									<div class="form-group col">
-										<input type="submit" value="Submit Subscription" class="btn btn-primary btn-lg" name="send" data-loading-text="lädt...">
+										<input type="submit" value="Submit Subscription" class="btn btn-primary btn-lg" name="send" data-loading-text="lÃ¤dt...">
 									</div>
 								</div>
 								<?php
